@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.main{
+    padding: 1rem;
+}
+
+body{
+    background-color:#FFC155 ;
+}
+
+.imgBackground{
+    flex-direction: column;
+}
