@@ -5,6 +5,7 @@
 
 .main{
     padding: 1rem;
+    margin: 1rem;
 }
 
 body{
@@ -13,4 +14,11 @@ body{
 
 .imgBackground{
     flex-direction: column;
+}
+
+@media only screen and (min-width: 768px){
+    .main {
+        max-width:1024px;
+        margin: 0 auto;
+    }
 }
