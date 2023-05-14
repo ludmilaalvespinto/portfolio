@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.main{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+body{
+    background-color:#3B0032 ;
+   
+}
+
+.imgBackground{
+    flex-direction: column;
+}
+
+@media only screen and (min-width: 768px){
+    .main {
+        max-width:1024px;
+        margin: 0 auto;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    text-decoration: underline;
+}

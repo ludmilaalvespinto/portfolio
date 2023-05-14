@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+.aboutme p{
+    font-size: 14px;
+    text-align: justify;
+}
