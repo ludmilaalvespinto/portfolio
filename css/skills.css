@@ -1,0 +1,15 @@
+.skills ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.skillimg{
+    max-width: 48px;
+    padding: 5px;
+}
