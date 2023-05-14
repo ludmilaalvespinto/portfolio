@@ -9,6 +9,12 @@
 
 }
 
+ul{
+    justify-content: center;
+    align-items: center;
+
+}
+
 .portfolio li{
     display: flex;
     flex-direction: column;
@@ -22,4 +28,9 @@
     justify-content: center;
     align-items: center;
     padding: 10px;
+}
+
+.projetoAbracAe{
+    width: 30%;
+    height: 30%;
 }
